@@ -1,0 +1,47 @@
+table{
+	width:100%;
+	border-collapse: collapse;
+	border-radius: 10px solid black;
+}
+th {
+	background-color: darkcyan;
+  height: 70px;
+}
+table a{
+	text-decoration: none;
+	padding: 2%;
+	font-weight: bold;
+	color:black;
+	font-size: 20px;
+	
+}
+table a:hover{
+	border-radius: 5px;
+	background-color: #053142;
+	color: white;
+}
+.btn{
+padding: 1%;
+color:black;
+}
+
+td {
+  text-align: center;
+  padding: 15px;
+}
+table td:hover{
+ padding: 25px;
+ font-weight: bold;
+
+}
+table tr:hover {
+	background-color:darkcyan;
+	
+}
+.image{
+	margin-left: 20%;
+	width: 60%;
+}
+.image:hover{
+	box-shadow: 0 4px 8px 0 black;
+}

@@ -1,0 +1,29 @@
+img{
+	margin-left: 5%;
+	width:90%;
+}
+main.container{
+	display: flex;
+	margin-top: 50px;
+}
+.text-container{
+	width:50%;
+	padding-bottom: 40px;
+}
+.text-container h1{
+	font-size: 40px;
+	margin-bottom: 0.6em;
+}
+
+.first:hover{
+	border-radius: 40px;
+	background-color:#053142;
+	color:black;
+}
+.gif{
+	padding: 0%;
+	width:27%;
+	height: 5%;
+	display: inline-block;
+	margin-left: 10%;
+}

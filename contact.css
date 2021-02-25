@@ -1,0 +1,24 @@
+main.container{
+	margin-top: 5vh;
+	max-width: 430px;
+	margin-left: 0%;
+	display: inline-block;
+}
+form{
+	margin-left: 0%;
+}
+input:focus{
+  outline:none;
+  border: 3px solid #053142;
+}
+textarea:focus{
+	outline:none;
+  border: 3px solid #053142;
+}
+.mailImg{
+margin-left:3%;
+ margin-top:5%;
+}
+.mailImg:hover{
+	box-shadow: 0 4px 8px 0 black;
+}
